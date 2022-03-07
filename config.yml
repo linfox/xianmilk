@@ -110,45 +110,45 @@ content:
         - name: 爱范儿玩物志
           description: 
           url: https://www.ifanr.com/coolbuy
-        - name: 
+        - name: 博派创意礼品小铺
           description: 
-          url: 
-        - name: 
+          url: http://i.biopatent.cn/
+        - name: 爱稀奇
           description: 
-          url: 
+          url: http://www.ixiqi.com/
        
     - name: 工业设计
       sites:
-        - name: 
+        - name: Pinterest
           description: 
-          url: 
-        - name: 
+          url: https://www.pinterest.com/
+        - name: Billwang 工业设计
           description: 
-          url: 
-        - name: 
+          url: http://www.billwang.net/
+        - name: 普象网
           description: 
-          url: 
-        - name: 
+          url: https://www.puxiang.com/
+        - name: Behance
           description: 
-          url: 
-        - name: 
+          url: https://www.behance.net/
+        - name: Yanko
           description: 
-          url: 
+          url: https://www.yankodesign.com/
        
     - name: 独立站大卖新品
       sites:
-        - name: 
+        - name: Gearbest New
           description: 
-          url: 
-        - name: 
+          url: https://www.gearbest.com/new-products/
+        - name: Sunsky New
           description: 
-          url: 
-        - name: 
+          url: https://www.sunsky-online.com/marketing/promotion!newArrivals.do
+        - name: Banggood Top
           description: 
-          url: 
-        - name: 
+          url: https://www.banggood.com/ranking.html?bid=56273&from=nav
+        - name: Tomtop New
           description: 
-          url: 
+          url: https://www.tomtop.com/new-arrivals/
         - name: 
           description: 
           url: 

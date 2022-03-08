@@ -149,9 +149,7 @@ content:
         - name: Tomtop New
           description: 
           url: https://www.tomtop.com/new-arrivals/
-        - name: 
-          description: 
-          url: 
+        
      
     - name: 各国购物站点
       sites:
@@ -210,9 +208,9 @@ content:
    
     - name: 技术玩法
       sites:
-        - name: 
+        - name: Google New Bluetooth Speaker
           description: 
-          url: 
+          url: https://www.google.com/search?q=bluetooth+speaker&newwindow=1&hl=zh-CN&biw=1718&bih=1283&tbm=nws&sxsrf=APq-WBuXmQL6BFLPIEbWzbWCYvpQHUpxxg%3A1646122757171&ei=BdcdYuz0CeqxrgT28LHoCA&ved=0ahUKEwisi8qRvaT2AhXqmIsKHXZ4DI0Q4dUDCA0&uact=5&oq=bluetooth+speaker&gs_lcp=Cgxnd3Mtd2l6LW5ld3MQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEIAEEAo6BAgAEENQAFjXO2CGPmgAcAB4AIAB_gKIAfkqkgEEMy0xNpgBAKABAcABAQ&sclient=gws-wiz-news
         - name: 
           description: 
           url: 

@@ -2,16 +2,13 @@
 title: 跨境选品导航
 
 # description of website
-description: 跨境选品导航
+description: 只关注新品
 
 # favicon of website
 favicon: "https://github.com/linfox.png?size=40"
 
 # your website url
 url: https://linfox.github.io/kuajing
-
-# github profile url
-github: "https://github.com/linfox"
 
 # footer message
 footer: © 2021-2021 @linfox
@@ -52,21 +49,11 @@ content:
         - name: Globalsources New Product
           description: 
           url: https://www.globalsources.com/product/list?source=GSOLHP_NewProd_ViewMore
-        - name: 
+        - name: 1688
           description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+          url: https://www.1688.com/
+          
+     
         
     - name: 众筹
       sites:
@@ -82,7 +69,7 @@ content:
         - name: 啧啧
           description: 
           url: https://www.zeczec.com/
-    - name: 硬件资讯
+    - name: 新闻资讯
       sites:
         - name: Engadget
           description: 
@@ -90,15 +77,15 @@ content:
         - name: Lifehacker
           description: 
           url: https://lifehacker.com/
-        - name: 
+        - name: Product Hunt
+          description: 专业新品捕捉，软件类为主，硬件也有
+          url: https://www.producthunt.com/
+        - name: 雷锋网
           description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+          url: https://www.leiphone.com/
+        - name: IT桔子
+          description: 各种公司品牌的融资信息
+          url: https://www.itjuzi.com/
     - name: 趣味礼品
       sites:
         - name: 趣玩网
@@ -153,74 +140,67 @@ content:
      
     - name: 各国购物站点
       sites:
-        - name: 
+        - name: Naver Shopping
           description: 
-          url: 
-        - name: 
+          url: https://shopping.naver.com/home/p/index.naver
+        - name: Coupang
           description: 
-          url: 
-        - name: 
+          url: https://www.coupang.com/
+        - name: Gmarket
           description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+          url: https://www.gmarket.co.kr/
+        
       
     - name: 上游供应链
       sites:
-        - name: 
+        - name: 充电头网
           description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+          url: https://www.chongdiantou.com/
+        - name: 未来工场
+          description: 3D打印服务；拖入图纸，系统自动报价
+          url: https://www.wenext.cn/
+        - name: 嘉立创
+          description: 小批量PCB服务
+          url: https://www.jlc.com/
+        - name: 硬蛋网
+          description: IC商城
+          url: https://www.ingdan.com/
+        - name: 我爱方案网
+          description: 方案超市
+          url: https://www.52solution.com/
         
     - name: 专业选品工具
       sites:
-        - name: 
+        - name: Amzscout
           description: 
-          url: 
-        - name: 
+          url: https://amzscout.net/
+        - name: Junglescout
           description: 
-          url: 
-        - name: 
+          url: https://www.junglescout.com/
+        - name: 卖家精灵
           description: 
-          url: 
-        - name: 
+          url: https://www.sellersprite.com/
+        - name: CamelCamelCamel
           description: 
-          url: 
-        - name: 
+          url: https://camelcamelcamel.com/
+        - name: 紫鸟数据
           description: 
-          url: 
+          url: https://www.ziniao.com/
       
    
     - name: 技术玩法
       sites:
         - name: Google New Bluetooth Speaker
-          description: 
+          description: 替换关键词可查其他新品
           url: https://www.google.com/search?q=bluetooth+speaker&newwindow=1&hl=zh-CN&biw=1718&bih=1283&tbm=nws&sxsrf=APq-WBuXmQL6BFLPIEbWzbWCYvpQHUpxxg%3A1646122757171&ei=BdcdYuz0CeqxrgT28LHoCA&ved=0ahUKEwisi8qRvaT2AhXqmIsKHXZ4DI0Q4dUDCA0&uact=5&oq=bluetooth+speaker&gs_lcp=Cgxnd3Mtd2l6LW5ld3MQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEIAEEAo6BAgAEENQAFjXO2CGPmgAcAB4AIAB_gKIAfkqkgEEMy0xNpgBAKABAcABAQ&sclient=gws-wiz-news
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+        - name: Google New Power Bank
+          description: 替换关键词可查其他新品
+          url: https://www.google.com/search?q=power+bank&newwindow=1&hl=zh-CN&biw=1718&bih=1283&tbm=nws&sxsrf=APq-WBv6CUyzuAT79fn9tc_-PuQgvKVE4g%3A1646743351539&ei=N08nYpzFIJXL0PEPwpCNQA&ved=0ahUKEwjcvISExbb2AhWVJTQIHUJIAwgQ4dUDCA0&uact=5&oq=power+bank&gs_lcp=Cgxnd3Mtd2l6LW5ld3MQAzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQChBDOgcIABCABBAKUABYzwtgig5oAHAAeACAAa4FiAH4G5IBCTItNi4xLjEuMpgBAKABAcABAQ&sclient=gws-wiz-news
+        - name: Google New phone stand
+          description: 替换关键词可查其他新品
+          url: https://www.google.com/search?q=phone+stand&newwindow=1&hl=zh-CN&biw=1718&bih=1283&tbm=nws&sxsrf=APq-WBu85COkifuPJNGem_jmHgp7_v_sig%3A1646743355709&ei=O08nYpfoKtXW9APw74mwBw&ved=0ahUKEwjX8YKGxbb2AhVVK30KHfB3AnYQ4dUDCA4&uact=5&oq=phone+stand&gs_lcp=Cgxnd3Mtd2l6LW5ld3MQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEM6BwgAEIAEEAo6CQgAEIAEEAwQClAAWMweYNMgaARwAHgBgAHAA4gB0CKSAQcyLTYuNy4xmAEAoAEBsAEAwAEB&sclient=gws-wiz-news
+        - name: Google New bluetooth earbud
+          description: 替换关键词可查其他新品
+          url: https://www.google.com/search?q=bluetooth+earbud&newwindow=1&hl=zh-CN&biw=1718&bih=1283&tbm=nws&sxsrf=APq-WBvkjyAYs5dRTv-PkjuVg_e8Wx6RxQ%3A1646743472186&ei=sE8nYvbjCtPO0PEPtKunqAw&ved=0ahUKEwj2-8e9xbb2AhVTJzQIHbTVCcUQ4dUDCA0&uact=5&oq=bluetooth+earbud&gs_lcp=Cgxnd3Mtd2l6LW5ld3MQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEM6BwgAEIAEEApQ4QVY-RJghRtoAHAAeACAAbcCiAG0E5IBBTItOC4xmAEAoAEBwAEB&sclient=gws-wiz-news
+        
         

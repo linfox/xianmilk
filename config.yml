@@ -18,7 +18,7 @@ footer: © 2021-2021 @linfox
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+google_analytics: "G-3EHNGLB265"
 
 webstack:
   search:
@@ -154,7 +154,7 @@ content:
     - name: 上游供应链
       sites:
         - name: 充电头网
-          description: 
+          description: 各种拆解
           url: https://www.chongdiantou.com/
         - name: 未来工场
           description: 3D打印服务；拖入图纸，系统自动报价
